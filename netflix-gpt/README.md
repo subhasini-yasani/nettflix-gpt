@@ -1,6 +1,10 @@
 # netflix-gpt
 - cteate react app
 - configared TailwindCss
+Heder 
+login form
+sign up form
+
 
 
 # features

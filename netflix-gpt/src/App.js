@@ -1,11 +1,15 @@
 
-import './App.css';
+
+import Body from "./component/Body";
+import {ErrorBoundary} from 'react-error-boundary'
 
 function App() {
   return (
-    <div className="text-3xl font-bold underline">
-      namaste react netflix gpt
-    </div>
+    <ErrorBoundary>
+      <div >
+        <Body />
+      </div>
+    </ErrorBoundary>
   );
 }
 
