@@ -35,13 +35,15 @@
  - TMDB image CDN URL
  - Made the Browsre page amazing with Tailwind css
  - usePopularMovies custom hook
- 
-
+ - GPT sarch Page
+ - Gpt serach Bar
+ - (BOUNES) Multi-languvage Feature in our App
+ - 
 
 
 
 # features
-L
+
 - Login/ Sign in
    - sign in /sign up form
    - redirect to brows page
