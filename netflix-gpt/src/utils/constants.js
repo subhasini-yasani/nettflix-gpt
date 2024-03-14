@@ -10,7 +10,7 @@ export const API_OPTIONS = {
           accept: "application/json",
           Authorization: 
           "Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI0NmY1NzAxYWJiNGU5N2I3NjVkN2RiNzlhZjRjOWIzZiIsInN1YiI6IjY1ODQyZjcwNTViYzM1NTc3YzE4MjAyMCIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.HKy673Sv_pjH8INFuWqH9dhFwf2N7LR-1Iti7A9qLK0",
-        },   
+        },
 };
 
 export const IMG_CDN_URL = "https://image.tmdb.org/t/p/w780"
@@ -23,4 +23,5 @@ export const SUPPORTED_LANGUAGES = [
 {identifier: "spanish", name: "Spanish"},
 ];
 
+ export const OPENAI_KEY = "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";
 
